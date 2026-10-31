@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
+!.env.example
+Assignment2Data/*.npy
+*.npz
+*.h5
+*.keras
+*.pt
+*.pth
+*.pkl
+*.joblib
